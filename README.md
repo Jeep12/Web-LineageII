@@ -10,11 +10,13 @@ command: npm install in directory LineasgeII-Web
 <h1>Run Api</h1>
 configure Mysql database connection in api/connection.js , the game database.
 parameters:
-    host: "localhost",
-    user: "root",
-    password: "",
-    port:3306,
-    database:"l2jmobiusclassic"
+<ul>
+    <li>host: "localhost",</li>
+   <li> user: "root",</li>
+    <li>password: "",</li>
+    <li>port:3306,</li>
+   <li> database:"l2jmobiusclassic"</li>
+    </ul>
 is a example
 
 run sv api in directory api with command npm run dev
