@@ -10,7 +10,7 @@ command: npm install in directory LineasgeII-Web
 <h1>Run Api</h1>
 configure Mysql database connection in api/connection.js , the game database.
 <br>
-<p style="color:green">parameters:</p>
+<p style='color:green'>parameters:</p>
 <ul>
     <li>host: "localhost",</li>
    <li> user: "root",</li>
