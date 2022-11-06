@@ -1,0 +1,6 @@
+Creo package.json del proyecto con comando npm init -y
+
+creo js principal index.js
+
+
+//vamos a usar nodemon, algo sobre servidor xd
