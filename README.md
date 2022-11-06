@@ -8,7 +8,7 @@ the second is in mysql, the accounts to log in to the game.</p>
 command: npm install in directory LineasgeII-Web
 <hr>
 <h1>Run Api</h1>
-configure Mysql database connection in connection.js , the game database.
+configure Mysql database connection in api/connection.js , the game database.
 parameters:
     host: "localhost",
     user: "root",
